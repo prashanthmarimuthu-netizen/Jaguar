@@ -174,7 +174,7 @@ export default function AdminDashboardPage() {
                 </div>
               </div>
             </>
-          )}
+          ) : null}
         </div>
       </AdminLayout>
     </ProtectedRoute>
